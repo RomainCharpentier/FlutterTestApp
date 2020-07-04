@@ -1,6 +1,10 @@
-# flutterapp
+<div align="center" style="margin-bottom: 30px;">
+<img src="https://user-images.githubusercontent.com/35954925/86511942-df5cd500-bdfd-11ea-913d-60e9a5c707a5.png" width="224"/>
+</div>
+# FlutterTestApp
 
-A new Flutter application.
+My personal test of [Flutter](https://flutter.dev) following the [Openclassroom tutorial](https://openclassrooms.com/fr/courses/4568596-construire-une-interface-user-flexible-et-adaptative).
+
 
 ## Getting Started
 

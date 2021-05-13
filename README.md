@@ -4,7 +4,7 @@
 
 # FlutterTestApp
 
-My personal test of [Flutter](https://flutter.dev) following the [Openclassroom tutorial](https://openclassrooms.com/fr/courses/4568596-construire-une-interface-user-flexible-et-adaptative).
+My personal test of [NestJs](https://nextjs.org)
 
 
 ## Getting Started
